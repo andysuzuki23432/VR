@@ -39,7 +39,7 @@ Essas melhorias consolidam o objetivo do projeto: explorar a imersão e o realis
 
 1. **Clone o repositório** ou baixe os arquivos do projeto:
    ```bash
-   git clone https://github.com/andysuzuki23432/VR_T2.git
+   git clone https://github.com/andysuzuki23432/VR.git
    ```
 2. **Abra o projeto no Unity Hub**  
    - Certifique-se de usar a mesma versão do Unity usada no desenvolvimento (2024.3.8f1).
